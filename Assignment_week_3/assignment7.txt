@@ -1,0 +1,2 @@
+1. Answer:- The size of C structure is the total bytes of all elements of structure.
+2. The size of a C structure is calculated by   size = sizeof(structure_name);
